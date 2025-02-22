@@ -1,10 +1,11 @@
-package com.khan.dailyroutine
+package com.khan.dailyroutine.list
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.khan.dailyroutine.R
 
 class ListFragment : Fragment() {
 
