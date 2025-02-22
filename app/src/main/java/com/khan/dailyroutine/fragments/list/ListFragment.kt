@@ -1,4 +1,4 @@
-package com.khan.dailyroutine.list
+package com.khan.dailyroutine.fragments.list
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
